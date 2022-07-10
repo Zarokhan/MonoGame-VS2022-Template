@@ -1,2 +1,7 @@
 # MonoGame-VS2022-Template
-MonoGame version 3.8 Visual Studio 2022 Template for Crossplatform game on Desktop (Windows, macOS, Linux), iOS and Android with OpenGL. 
+
+Template for monogame visual studio 2022
+
+MonoGame version 3.8
+Visual Studio 2022
+Crossplatform template game for monogame Desktop (Windows, macOS, Linux), iOS and Android.
